@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import AboutMe from './AboutMe/AboutMe';
 import Home from './Home/Home';
 import Particles from "react-tsparticles";
